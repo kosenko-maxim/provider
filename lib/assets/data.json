@@ -1,0 +1,2512 @@
+{
+  "countryPhoneDataList": [
+    {
+      "countryId": "AF",
+      "code": 93,
+      "name": "Afghanistan",
+      "lengths": [
+        9
+      ],
+      "example": 701234567,
+      "numberPattern": "7(?:[014-9]\\d|2[89]|3[01])\\d{6}"
+    },
+    {
+      "countryId": "AL",
+      "code": 355,
+      "name": "Albania",
+      "lengths": [
+        9
+      ],
+      "example": 662123456,
+      "numberPattern": "6(?:[689][2-9]|7[2-6])\\d{6}"
+    },
+    {
+      "countryId": "DZ",
+      "code": 213,
+      "name": "Algeria",
+      "lengths": [
+        9
+      ],
+      "example": 551234567,
+      "numberPattern": "67[0-6]\\d{6}|(?:5[4-6]|6[569]|7[7-9])\\d{7}"
+    },
+    {
+      "countryId": "AS",
+      "code": 1,
+      "name": "American Samoa",
+      "lengths": [
+        10
+      ],
+      "example": 6847331234,
+      "numberPattern": "684(?:2(?:5[2468]|72)|7(?:3[13]|70))\\d{4}"
+    },
+    {
+      "countryId": "AD",
+      "code": 376,
+      "name": "Andorra",
+      "lengths": [
+        6,
+        9
+      ],
+      "example": 312345,
+      "numberPattern": "690\\d{6}|[36]\\d{5}"
+    },
+    {
+      "countryId": "AO",
+      "code": 244,
+      "name": "Angola",
+      "lengths": [
+        9
+      ],
+      "example": 923123456,
+      "numberPattern": "9[1-49]\\d{7}"
+    },
+    {
+      "countryId": "AI",
+      "code": 1,
+      "name": "Anguilla",
+      "lengths": [
+        10
+      ],
+      "example": 2642351234,
+      "numberPattern": "264(?:235|476|5(?:3[6-9]|8[1-4])|7(?:29|72))\\d{4}"
+    },
+    {
+      "countryId": "AG",
+      "code": 1,
+      "name": "Antigua & Barbuda",
+      "lengths": [
+        10
+      ],
+      "example": 2684641234,
+      "numberPattern": "268(?:464|7(?:1[3-9]|2\\d|3[246]|64|[78][0-689]))\\d{4}"
+    },
+    {
+      "countryId": "AR",
+      "code": 54,
+      "name": "Argentina",
+      "lengths": [
+        10,
+        11
+      ],
+      "example": 91123456789,
+      "numberPattern": "9(?:2(?:646[0-46-9]|9(?:45[02-69]|54[2-8]))|3(?:4(?:3(?:5[0-7]|6[1-69])|5(?:4[0-4679]|[56][024-6]))|585[013-7]|7(?:(?:1[15]|81)[46]|77[2-8])|8(?:(?:21|4[16]|9[12])[46]|35[124-6]|5(?:5[0-46-9]|6[0-246-9])|6(?:5[2-8]|9[46])|86[0-68])))\\d{5}|9(?:2(?:284|657|9(?:20|66))|3(?:4(?:8[27]|92)|755|878))[2-7]\\d{5}|9(?:2(?:2(?:2[59]|44|52)|3(?:26|4[24])|473|9(?:[07]2|2[26]|34|46))|3327)[45]\\d{5}|9(?:2(?:(?:26|62)2|3(?:02|2[03])|477|9(?:42|83))|3(?:4(?:[47]6|62|89)|5(?:41|64)|873))[2-6]\\d{5}|(?:675\\d|9(?:11[2-7]\\d|2(?:2(?:0[45]|1[2-6]|3[3-6])|3(?:[06]4|7[45])|494|6(?:04|1[2-7]|[346][45])|80[45]|9(?:[17][4-6]|44|8[45]|9[3-6]))|3(?:364|4(?:1[2-7]|2[4-6]|[38]4)|5(?:1[2-8]|3[4-6]|8[46])|6(?:2[45]|44)|7[069][45]|8(?:0[45]|1[2-6]|34|5[34]|7[24-6]|8[3-5]))))\\d{6}|92(?:2(?:21|4[23]|6[145]|7[1-4]|8[356]|9[267])|3(?:16|3[13-8]|43|5[346-8]|9[3-5])|475|6(?:2[46]|4[78]|5[1568])|9(?:03|2[1457-9]|3[1356]|4[08]|[56][23]|82))4\\d{5}|9(?:2(?:2(?:57|81)|3(?:24|46|92)|9(?:01|23|64))|3(?:329|4(?:42|71)|5(?:25|37|4[347]|71)|7(?:18|5[17])|888))[3-6]\\d{5}|9(?:2(?:2(?:02|2[3467]|4[156]|5[45]|6[6-8]|91)|3(?:1[47]|[24]5|5[25]|96)|47[48]|625|932)|3(?:38[2578]|4(?:0[0-24-9]|3[78]|4[457]|58|6[03-9]|72|83|9[136-8])|5(?:2[124]|[368][23]|4[2689]|7[2-6])|7(?:16|2[15]|3[145]|4[13]|5[468]|7[2-5]|8[26])|8(?:2[5-7]|3[278]|4[3-5]|5[78]|6[1-378]|[78]7|94)))[4-6]\\d{5}"
+    },
+    {
+      "countryId": "AM",
+      "code": 374,
+      "name": "Armenia",
+      "lengths": [
+        8
+      ],
+      "example": 77123456,
+      "numberPattern": "(?:4[1349]|55|77|88|9[13-9])\\d{6}"
+    },
+    {
+      "countryId": "AW",
+      "code": 297,
+      "name": "Aruba",
+      "lengths": [
+        7
+      ],
+      "example": 5601234,
+      "numberPattern": "(?:290|5[69]\\d|6(?:[03]0|22|4[0-2]|[69]\\d)|7(?:[34]\\d|7[07])|9(?:6[45]|9[4-8]))\\d{4}"
+    },
+    {
+      "countryId": "AC",
+      "code": 247,
+      "name": "Ascension Island",
+      "lengths": [
+        5
+      ],
+      "example": 40123,
+      "numberPattern": "4\\d{4}"
+    },
+    {
+      "countryId": "AU",
+      "code": 61,
+      "name": "Australia",
+      "lengths": [
+        9
+      ],
+      "example": 412345678,
+      "numberPattern": "4(?:[0-3]\\d|4[047-9]|5[0-25-9]|6[06-9]|7[02-9]|8[0-2457-9]|9[017-9])\\d{6}"
+    },
+    {
+      "countryId": "AT",
+      "code": 43,
+      "name": "Austria",
+      "lengths": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "example": 664123456,
+      "numberPattern": "6(?:5[0-3579]|6[013-9]|[7-9]\\d)\\d{4,10}"
+    },
+    {
+      "countryId": "AZ",
+      "code": 994,
+      "name": "Azerbaijan",
+      "lengths": [
+        9
+      ],
+      "example": 401234567,
+      "numberPattern": "36554\\d{4}|(?:4[04]|5[015]|60|7[07])\\d{7}"
+    },
+    {
+      "countryId": "BS",
+      "code": 1,
+      "name": "Bahamas",
+      "lengths": [
+        10
+      ],
+      "example": 2423591234,
+      "numberPattern": "242(?:3(?:5[79]|7[56]|95)|4(?:[23][1-9]|4[1-35-9]|5[1-8]|6[2-8]|7\\d|81)|5(?:2[45]|3[35]|44|5[1-46-9]|65|77)|6[34]6|7(?:27|38)|8(?:0[1-9]|1[02-9]|2\\d|[89]9))\\d{4}"
+    },
+    {
+      "countryId": "BH",
+      "code": 973,
+      "name": "Bahrain",
+      "lengths": [
+        8
+      ],
+      "example": 36001234,
+      "numberPattern": "(?:3(?:[1-4679]\\d|5[013-69]|8[0-47-9])\\d|6(?:3(?:00|33|6[16])|6(?:3[03-9]|[69]\\d|7[0-6])))\\d{4}"
+    },
+    {
+      "countryId": "BD",
+      "code": 880,
+      "name": "Bangladesh",
+      "lengths": [
+        10
+      ],
+      "example": 1812345678,
+      "numberPattern": "(?:1[13-9]\\d|644)\\d{7}|(?:3[78]|44|66)[02-9]\\d{7}"
+    },
+    {
+      "countryId": "BB",
+      "code": 1,
+      "name": "Barbados",
+      "lengths": [
+        10
+      ],
+      "example": 2462501234,
+      "numberPattern": "246(?:2(?:[356]\\d|4[0-57-9]|8[0-79])|45\\d|69[5-7]|8(?:[2-5]\\d|83))\\d{4}"
+    },
+    {
+      "countryId": "BY",
+      "code": 375,
+      "name": "Belarus",
+      "lengths": [
+        9
+      ],
+      "example": 294911911,
+      "numberPattern": "(?:2(?:5[5-79]|9[1-9])|(?:33|44)\\d)\\d{6}"
+    },
+    {
+      "countryId": "BE",
+      "code": 32,
+      "name": "Belgium",
+      "lengths": [
+        9
+      ],
+      "example": 470123456,
+      "numberPattern": "4(?:5[56]|6[0135-8]|[79]\\d|8[3-9])\\d{6}"
+    },
+    {
+      "countryId": "BZ",
+      "code": 501,
+      "name": "Belize",
+      "lengths": [
+        7
+      ],
+      "example": 6221234,
+      "numberPattern": "6[0-35-7]\\d{5}"
+    },
+    {
+      "countryId": "BJ",
+      "code": 229,
+      "name": "Benin",
+      "lengths": [
+        8
+      ],
+      "example": 90011234,
+      "numberPattern": "(?:6\\d|9[03-9])\\d{6}"
+    },
+    {
+      "countryId": "BM",
+      "code": 1,
+      "name": "Bermuda",
+      "lengths": [
+        10
+      ],
+      "example": 4413701234,
+      "numberPattern": "441(?:[37]\\d|5[0-39])\\d{5}"
+    },
+    {
+      "countryId": "BT",
+      "code": 975,
+      "name": "Bhutan",
+      "lengths": [
+        8
+      ],
+      "example": 17123456,
+      "numberPattern": "(?:1[67]|77)\\d{6}"
+    },
+    {
+      "countryId": "BO",
+      "code": 591,
+      "name": "Bolivia",
+      "lengths": [
+        8
+      ],
+      "example": 71234567,
+      "numberPattern": "[67]\\d{7}"
+    },
+    {
+      "countryId": "BA",
+      "code": 387,
+      "name": "Bosnia & Herzegovina",
+      "lengths": [
+        8,
+        9
+      ],
+      "example": 61123456,
+      "numberPattern": "6(?:0(?:3\\d|40)|[1-356]\\d|44[0-6]|71[137])\\d{5}"
+    },
+    {
+      "countryId": "BW",
+      "code": 267,
+      "name": "Botswana",
+      "lengths": [
+        8
+      ],
+      "example": 71123456,
+      "numberPattern": "77200\\d{3}|7(?:[1-6]\\d|7[014-8])\\d{5}"
+    },
+    {
+      "countryId": "BR",
+      "code": 55,
+      "name": "Brazil",
+      "lengths": [
+        10,
+        11
+      ],
+      "example": 11961234567,
+      "numberPattern": "(?:[189][1-9]|2[12478])(?:7|9\\d)\\d{7}|(?:3[1-578]|[46][1-9]|5[13-5]|7[13-579])(?:[6-8]\\d{7}|9\\d{7,8})"
+    },
+    {
+      "countryId": "IO",
+      "code": 246,
+      "name": "British Indian Ocean Territory",
+      "lengths": [
+        7
+      ],
+      "example": 3801234,
+      "numberPattern": "38\\d{5}"
+    },
+    {
+      "countryId": "VG",
+      "code": 1,
+      "name": "British Virgin Islands",
+      "lengths": [
+        10
+      ],
+      "example": 2843001234,
+      "numberPattern": "284496[6-9]\\d{3}|284(?:3(?:0[0-3]|4[0-7]|68|9[34])|4(?:4[0-6]|68|99)|54[0-57])\\d{4}"
+    },
+    {
+      "countryId": "BN",
+      "code": 673,
+      "name": "Brunei",
+      "lengths": [
+        7
+      ],
+      "example": 7123456,
+      "numberPattern": "(?:22[89]|[78]\\d\\d)\\d{4}"
+    },
+    {
+      "countryId": "BG",
+      "code": 359,
+      "name": "Bulgaria",
+      "lengths": [
+        8,
+        9
+      ],
+      "example": 48123456,
+      "numberPattern": "43[07-9]\\d{5}|(?:48|8[7-9]\\d|9(?:8\\d|9[69]))\\d{6}"
+    },
+    {
+      "countryId": "BF",
+      "code": 226,
+      "name": "Burkina Faso",
+      "lengths": [
+        8
+      ],
+      "example": 70123456,
+      "numberPattern": "(?:5[124-8]|[67]\\d)\\d{6}"
+    },
+    {
+      "countryId": "BI",
+      "code": 257,
+      "name": "Burundi",
+      "lengths": [
+        8
+      ],
+      "example": 79561234,
+      "numberPattern": "(?:29|31|6[189]|7[125-9])\\d{6}"
+    },
+    {
+      "countryId": "KH",
+      "code": 855,
+      "name": "Cambodia",
+      "lengths": [
+        8,
+        9
+      ],
+      "example": 91234567,
+      "numberPattern": "(?:(?:1[28]|3[18]|9[67])\\d|6[016-9]|7(?:[07-9]|[16]\\d)|8(?:[013-79]|8\\d))\\d{6}|(?:1\\d|9[0-57-9])\\d{6}|(?:2[3-6]|3[2-6]|4[2-4]|[5-7][2-5])48\\d{5}"
+    },
+    {
+      "countryId": "CM",
+      "code": 237,
+      "name": "Cameroon",
+      "lengths": [
+        9
+      ],
+      "example": 671234567,
+      "numberPattern": "6[5-9]\\d{7}"
+    },
+    {
+      "countryId": "CA",
+      "code": 1,
+      "name": "Canada",
+      "lengths": [
+        10
+      ],
+      "example": 5062345678,
+      "numberPattern": "(?:2(?:04|[23]6|[48]9|50)|3(?:06|43|65)|4(?:03|1[68]|3[178]|50)|5(?:06|1[49]|48|79|8[17])|6(?:04|13|39|47)|7(?:0[59]|78|8[02])|8(?:[06]7|19|25|73)|90[25])[2-9]\\d{6}"
+    },
+    {
+      "countryId": "CV",
+      "code": 238,
+      "name": "Cape Verde",
+      "lengths": [
+        7
+      ],
+      "example": 9911234,
+      "numberPattern": "(?:[34][36]|5[1-389]|9\\d)\\d{5}"
+    },
+    {
+      "countryId": "BQ",
+      "code": 599,
+      "name": "Caribbean Netherlands",
+      "lengths": [
+        7
+      ],
+      "example": 3181234,
+      "numberPattern": "(?:31(?:8[14-8]|9[14578])|416[14-9]|7(?:0[01]|7[07]|8\\d|9[056])\\d)\\d{3}"
+    },
+    {
+      "countryId": "KY",
+      "code": 1,
+      "name": "Cayman Islands",
+      "lengths": [
+        10
+      ],
+      "example": 3453231234,
+      "numberPattern": "345(?:32[1-9]|5(?:1[67]|2[5-79]|4[6-9]|50|76)|649|9(?:1[67]|2[2-9]|3[689]))\\d{4}"
+    },
+    {
+      "countryId": "CF",
+      "code": 236,
+      "name": "Central African Republic",
+      "lengths": [
+        8
+      ],
+      "example": 70012345,
+      "numberPattern": "7[0257]\\d{6}"
+    },
+    {
+      "countryId": "TD",
+      "code": 235,
+      "name": "Chad",
+      "lengths": [
+        8
+      ],
+      "example": 63012345,
+      "numberPattern": "(?:6[023568]|77|9\\d)\\d{6}"
+    },
+    {
+      "countryId": "CL",
+      "code": 56,
+      "name": "Chile",
+      "lengths": [
+        9
+      ],
+      "example": 221234567,
+      "numberPattern": "21962\\d{4}|(?:232[0-8]|80[1-9]\\d)\\d{5}|(?:22|3[2-5]|[47][1-35]|5[1-3578]|6[13-57]|8[1-9]|9[2-9])\\d{7}"
+    },
+    {
+      "countryId": "CN",
+      "code": 86,
+      "name": "China",
+      "lengths": [
+        11
+      ],
+      "example": 13123456789,
+      "numberPattern": "1740[0-5]\\d{6}|1(?:[38]\\d|4[57]|5[0-35-9]|6[25-7]|7[0-35-8]|9[189])\\d{8}"
+    },
+    {
+      "countryId": "CX",
+      "code": 61,
+      "name": "Christmas Island",
+      "lengths": [
+        9
+      ],
+      "example": 412345678,
+      "numberPattern": "4(?:[0-3]\\d|4[047-9]|5[0-25-9]|6[06-9]|7[02-9]|8[0-2457-9]|9[017-9])\\d{6}"
+    },
+    {
+      "countryId": "CC",
+      "code": 61,
+      "name": "Cocos (Keeling) Islands",
+      "lengths": [
+        9
+      ],
+      "example": 412345678,
+      "numberPattern": "4(?:[0-3]\\d|4[047-9]|5[0-25-9]|6[06-9]|7[02-9]|8[0-2457-9]|9[017-9])\\d{6}"
+    },
+    {
+      "countryId": "CO",
+      "code": 57,
+      "name": "Colombia",
+      "lengths": [
+        10
+      ],
+      "example": 3211234567,
+      "numberPattern": "3(?:0[0-5]|1\\d|2[0-3]|5[01])\\d{7}"
+    },
+    {
+      "countryId": "KM",
+      "code": 269,
+      "name": "Comoros",
+      "lengths": [
+        7
+      ],
+      "example": 3212345,
+      "numberPattern": "[34]\\d{6}"
+    },
+    {
+      "countryId": "CG",
+      "code": 242,
+      "name": "Congo - Brazzaville",
+      "lengths": [
+        9
+      ],
+      "example": 61234567,
+      "numberPattern": "0[14-6]\\d{7}"
+    },
+    {
+      "countryId": "CD",
+      "code": 243,
+      "name": "Congo - Kinshasa",
+      "lengths": [
+        7,
+        9
+      ],
+      "example": 991234567,
+      "numberPattern": "88\\d{5}|(?:8[0-2459]|9[017-9])\\d{7}"
+    },
+    {
+      "countryId": "CK",
+      "code": 682,
+      "name": "Cook Islands",
+      "lengths": [
+        5
+      ],
+      "example": 71234,
+      "numberPattern": "[5-8]\\d{4}"
+    },
+    {
+      "countryId": "CR",
+      "code": 506,
+      "name": "Costa Rica",
+      "lengths": [
+        8
+      ],
+      "example": 83123456,
+      "numberPattern": "6500[01]\\d{3}|5(?:0[01]|7[0-3])\\d{5}|(?:6[0-4]|7[0-3]|8[3-9])\\d{6}"
+    },
+    {
+      "countryId": "HR",
+      "code": 385,
+      "name": "Croatia",
+      "lengths": [
+        8,
+        9
+      ],
+      "example": 921234567,
+      "numberPattern": "9(?:751\\d{5}|8\\d{6,7})|9(?:01|[1259]\\d|7[0679])\\d{6}"
+    },
+    {
+      "countryId": "CU",
+      "code": 53,
+      "name": "Cuba",
+      "lengths": [
+        8
+      ],
+      "example": 51234567,
+      "numberPattern": "5\\d{7}"
+    },
+    {
+      "countryId": "CW",
+      "code": 599,
+      "name": "Curacao",
+      "lengths": [
+        7,
+        8
+      ],
+      "example": 95181234,
+      "numberPattern": "953[01]\\d{4}|9(?:5[12467]|6[5-9])\\d{5}"
+    },
+    {
+      "countryId": "CY",
+      "code": 357,
+      "name": "Cyprus",
+      "lengths": [
+        8
+      ],
+      "example": 96123456,
+      "numberPattern": "9[4-79]\\d{6}"
+    },
+    {
+      "countryId": "CZ",
+      "code": 420,
+      "name": "Czechia",
+      "lengths": [
+        9
+      ],
+      "example": 601123456,
+      "numberPattern": "(?:60[1-8]|7(?:0[2-5]|[2379]\\d))\\d{6}"
+    },
+    {
+      "countryId": "CI",
+      "code": 225,
+      "name": "Cote d’Ivoire",
+      "lengths": [
+        8
+      ],
+      "example": 1234567,
+      "numberPattern": "(?:0[1-9]|[457]\\d|6[014-9]|8[4-9])\\d{6}"
+    },
+    {
+      "countryId": "DK",
+      "code": 45,
+      "name": "Denmark",
+      "lengths": [
+        8
+      ],
+      "example": 32123456,
+      "numberPattern": "(?:[2-7]\\d|8[126-9]|9[1-36-9])\\d{6}"
+    },
+    {
+      "countryId": "DJ",
+      "code": 253,
+      "name": "Djibouti",
+      "lengths": [
+        8
+      ],
+      "example": 77831001,
+      "numberPattern": "77\\d{6}"
+    },
+    {
+      "countryId": "DM",
+      "code": 1,
+      "name": "Dominica",
+      "lengths": [
+        10
+      ],
+      "example": 7672251234,
+      "numberPattern": "767(?:2(?:[2-4689]5|7[5-7])|31[5-7]|61[1-7])\\d{4}"
+    },
+    {
+      "countryId": "DO",
+      "code": 1,
+      "name": "Dominican Republic",
+      "lengths": [
+        10
+      ],
+      "example": 8092345678,
+      "numberPattern": "8[024]9[2-9]\\d{6}"
+    },
+    {
+      "countryId": "EC",
+      "code": 593,
+      "name": "Ecuador",
+      "lengths": [
+        9
+      ],
+      "example": 991234567,
+      "numberPattern": "964[0-2]\\d{5}|9(?:39|[57][89]|6[0-37-9]|[89]\\d)\\d{6}"
+    },
+    {
+      "countryId": "EG",
+      "code": 20,
+      "name": "Egypt",
+      "lengths": [
+        10
+      ],
+      "example": 1001234567,
+      "numberPattern": "1[0-25]\\d{8}"
+    },
+    {
+      "countryId": "SV",
+      "code": 503,
+      "name": "El Salvador",
+      "lengths": [
+        8
+      ],
+      "example": 70123456,
+      "numberPattern": "[67]\\d{7}"
+    },
+    {
+      "countryId": "GQ",
+      "code": 240,
+      "name": "Equatorial Guinea",
+      "lengths": [
+        9
+      ],
+      "example": 222123456,
+      "numberPattern": "(?:222|55[015])\\d{6}"
+    },
+    {
+      "countryId": "ER",
+      "code": 291,
+      "name": "Eritrea",
+      "lengths": [
+        7
+      ],
+      "example": 7123456,
+      "numberPattern": "(?:17[1-3]|7\\d\\d)\\d{4}"
+    },
+    {
+      "countryId": "EE",
+      "code": 372,
+      "name": "Estonia",
+      "lengths": [
+        7,
+        8
+      ],
+      "example": 51234567,
+      "numberPattern": "(?:5\\d|8[1-4])\\d{6}|5(?:(?:[02]\\d|5[0-478])\\d|1(?:[0-8]\\d|95)|6(?:4[0-4]|5[1-589]))\\d{3}"
+    },
+    {
+      "countryId": "SZ",
+      "code": 268,
+      "name": "Eswatini",
+      "lengths": [
+        8
+      ],
+      "example": 76123456,
+      "numberPattern": "7[6-9]\\d{6}"
+    },
+    {
+      "countryId": "ET",
+      "code": 251,
+      "name": "Ethiopia",
+      "lengths": [
+        9
+      ],
+      "example": 911234567,
+      "numberPattern": "9\\d{8}"
+    },
+    {
+      "countryId": "FK",
+      "code": 500,
+      "name": "Falkland Islands (Islas Malvinas)",
+      "lengths": [
+        5
+      ],
+      "example": 51234,
+      "numberPattern": "[56]\\d{4}"
+    },
+    {
+      "countryId": "FO",
+      "code": 298,
+      "name": "Faroe Islands",
+      "lengths": [
+        6
+      ],
+      "example": 211234,
+      "numberPattern": "(?:[27][1-9]|5\\d)\\d{4}"
+    },
+    {
+      "countryId": "FJ",
+      "code": 679,
+      "name": "Fiji",
+      "lengths": [
+        7
+      ],
+      "example": 7012345,
+      "numberPattern": "(?:[279]\\d|45|5[01568]|8[034679])\\d{5}"
+    },
+    {
+      "countryId": "FI",
+      "code": 358,
+      "name": "Finland",
+      "lengths": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "example": 412345678,
+      "numberPattern": "(?:4[0-8]|50)\\d{4,8}"
+    },
+    {
+      "countryId": "FR",
+      "code": 33,
+      "name": "France",
+      "lengths": [
+        9
+      ],
+      "example": 612345678,
+      "numberPattern": "700\\d{6}|(?:6\\d|7[3-9])\\d{7}"
+    },
+    {
+      "countryId": "GF",
+      "code": 594,
+      "name": "French Guiana",
+      "lengths": [
+        9
+      ],
+      "example": 694201234,
+      "numberPattern": "694(?:[0-249]\\d|3[0-48])\\d{4}"
+    },
+    {
+      "countryId": "PF",
+      "code": 689,
+      "name": "French Polynesia",
+      "lengths": [
+        8
+      ],
+      "example": 87123456,
+      "numberPattern": "8[7-9]\\d{6}"
+    },
+    {
+      "countryId": "GA",
+      "code": 241,
+      "name": "Gabon",
+      "lengths": [
+        7,
+        8
+      ],
+      "example": 6031234,
+      "numberPattern": "(?:0[2-7]|[2-7])\\d{6}"
+    },
+    {
+      "countryId": "GM",
+      "code": 220,
+      "name": "Gambia",
+      "lengths": [
+        7
+      ],
+      "example": 3012345,
+      "numberPattern": "(?:[23679]\\d|5[01])\\d{5}"
+    },
+    {
+      "countryId": "GE",
+      "code": 995,
+      "name": "Georgia",
+      "lengths": [
+        9
+      ],
+      "example": 555123456,
+      "numberPattern": "(?:5(?:[14]4|5[0157-9]|68|7[0147-9]|9[1-35-9])|790)\\d{6}"
+    },
+    {
+      "countryId": "DE",
+      "code": 49,
+      "name": "Germany",
+      "lengths": [
+        10,
+        11
+      ],
+      "example": 15123456789,
+      "numberPattern": "15[0-25-9]\\d{8}|1(?:6[023]|7\\d)\\d{7,8}"
+    },
+    {
+      "countryId": "GH",
+      "code": 233,
+      "name": "Ghana",
+      "lengths": [
+        9
+      ],
+      "example": 231234567,
+      "numberPattern": "56[01]\\d{6}|(?:2[0346-8]|5[0457])\\d{7}"
+    },
+    {
+      "countryId": "GI",
+      "code": 350,
+      "name": "Gibraltar",
+      "lengths": [
+        8
+      ],
+      "example": 57123456,
+      "numberPattern": "(?:5[46-8]\\d|629)\\d{5}"
+    },
+    {
+      "countryId": "GR",
+      "code": 30,
+      "name": "Greece",
+      "lengths": [
+        10
+      ],
+      "example": 6912345678,
+      "numberPattern": "6(?:8[57-9]|9\\d)\\d{7}"
+    },
+    {
+      "countryId": "GL",
+      "code": 299,
+      "name": "Greenland",
+      "lengths": [
+        6
+      ],
+      "example": 221234,
+      "numberPattern": "(?:[25][1-9]|4[2-9])\\d{4}"
+    },
+    {
+      "countryId": "GD",
+      "code": 1,
+      "name": "Grenada",
+      "lengths": [
+        10
+      ],
+      "example": 4734031234,
+      "numberPattern": "473(?:4(?:0[2-79]|1[04-9]|2[0-5]|58)|5(?:2[01]|3[3-8])|901)\\d{4}"
+    },
+    {
+      "countryId": "GP",
+      "code": 590,
+      "name": "Guadeloupe",
+      "lengths": [
+        9
+      ],
+      "example": 690001234,
+      "numberPattern": "69(?:0\\d\\d|1(?:2[29]|3[0-5]))\\d{4}"
+    },
+    {
+      "countryId": "GU",
+      "code": 1,
+      "name": "Guam",
+      "lengths": [
+        10
+      ],
+      "example": 6713001234,
+      "numberPattern": "671(?:3(?:00|3[39]|4[349]|55|6[26])|4(?:00|56|7[1-9]|8[0236-9])|5(?:55|6[2-5]|88)|6(?:3[2-578]|4[24-9]|5[34]|78|8[235-9])|7(?:[0479]7|2[0167]|3[45]|8[7-9])|8(?:[2-57-9]8|6[48])|9(?:2[29]|6[79]|7[1279]|8[7-9]|9[78]))\\d{4}"
+    },
+    {
+      "countryId": "GT",
+      "code": 502,
+      "name": "Guatemala",
+      "lengths": [
+        8
+      ],
+      "example": 51234567,
+      "numberPattern": "[3-5]\\d{7}"
+    },
+    {
+      "countryId": "GG",
+      "code": 44,
+      "name": "Guernsey",
+      "lengths": [
+        10
+      ],
+      "example": 7781123456,
+      "numberPattern": "7(?:(?:781|839)\\d|911[17])\\d{5}"
+    },
+    {
+      "countryId": "GN",
+      "code": 224,
+      "name": "Guinea",
+      "lengths": [
+        9
+      ],
+      "example": 601123456,
+      "numberPattern": "6[02356]\\d{7}"
+    },
+    {
+      "countryId": "GW",
+      "code": 245,
+      "name": "Guinea-Bissau",
+      "lengths": [
+        9
+      ],
+      "example": 955012345,
+      "numberPattern": "9(?:5\\d|6[569]|77)\\d{6}"
+    },
+    {
+      "countryId": "GY",
+      "code": 592,
+      "name": "Guyana",
+      "lengths": [
+        7
+      ],
+      "example": 6091234,
+      "numberPattern": "6\\d{6}"
+    },
+    {
+      "countryId": "HT",
+      "code": 509,
+      "name": "Haiti",
+      "lengths": [
+        8
+      ],
+      "example": 34101234,
+      "numberPattern": "[34]\\d{7}"
+    },
+    {
+      "countryId": "HN",
+      "code": 504,
+      "name": "Honduras",
+      "lengths": [
+        8
+      ],
+      "example": 91234567,
+      "numberPattern": "[37-9]\\d{7}"
+    },
+    {
+      "countryId": "HK",
+      "code": 852,
+      "name": "Hong Kong",
+      "lengths": [
+        8
+      ],
+      "example": 51234567,
+      "numberPattern": "(?:46(?:0[0-6]|1[0-2]|4[0-57-9])|5730|(?:626|848)[01]|707[1-5]|929[03-9])\\d{4}|(?:5(?:[1-59][0-46-9]|6[0-4689]|7[0-2469])|6(?:0[1-9]|[13-59]\\d|[268][0-57-9]|7[0-79])|9(?:0[1-9]|1[02-9]|[2358][0-8]|[467]\\d))\\d{5}"
+    },
+    {
+      "countryId": "HU",
+      "code": 36,
+      "name": "Hungary",
+      "lengths": [
+        9
+      ],
+      "example": 201234567,
+      "numberPattern": "(?:[257]0|3[01])\\d{7}"
+    },
+    {
+      "countryId": "IS",
+      "code": 354,
+      "name": "Iceland",
+      "lengths": [
+        7,
+        9
+      ],
+      "example": 6111234,
+      "numberPattern": "(?:38[589]\\d\\d|6(?:1[1-8]|2[0-6]|3[027-9]|4[014679]|5[0159]|6[0-69]|70|8[06-8]|9\\d)|7(?:5[057]|[6-8]\\d|9[0-3])|8(?:2[0-59]|[3469]\\d|5[1-9]|8[28]))\\d{4}"
+    },
+    {
+      "countryId": "IN",
+      "code": 91,
+      "name": "India",
+      "lengths": [
+        10
+      ],
+      "example": 8123456789,
+      "numberPattern": "(?:6(?:1279|350[0-6])|7(?:3(?:1(?:11|7[02-8])|411)|4[47](?:11|7[02-8])|5111|700[02-9]|88(?:11|7[02-9])|9(?:313|79[07-9]))|8(?:079[04-9]|(?:16|2[014]|3[126]|6[136]|7[78]|8[34]|91)7[02-8]))\\d{5}|7(?:28[6-8]|3(?:2[0-49]|9[2-5])|4(?:1[2-4]|[29][0-7]|3[0-8]|[56]\\d|8[0-24-7])|5(?:2[1-3]|9[0-6])|6(?:0[5689]|2[5-9]|3[02-8]|4\\d|5[0-367])|70[13-7])[089]\\d{5}|(?:6(?:0(?:0[0-3569]|26|33)|2(?:[06]\\d|3[02589]|8[0-479]|9[0-79])|3(?:0[0-79]|5[1-9]|6[0-4679]|7[0-24-9]|[89]\\d)|9(?:0[019]|13))|7(?:0\\d\\d|19[0-5]|2(?:[0235-79]\\d|[14][017-9]|8[0-59])|3(?:[05-8]\\d|1[089]|2[5-8]|3[017-9]|4[07-9]|9[016-9])|4(?:0\\d|1[015-9]|[29][89]|39|[47][089]|8[389])|5(?:[0346-8]\\d|1[07-9]|2[04-9]|5[017-9]|9[7-9])|6(?:0[0-47]|1[0-257-9]|2[0-4]|3[19]|5[4589]|[6-9]\\d)|7(?:0[289]|[1-9]\\d)|8(?:[0-79]\\d|8[089])|9(?:[089]\\d|7[02-8]))|8(?:0(?:[01589]\\d|6[67]|7[02-8])|1(?:[0-57-9]\\d|6[089])|2(?:[014][089]|[235-9]\\d)|3(?:[03-57-9]\\d|[126][089])|[45]\\d\\d|6(?:[02457-9]\\d|[136][089])|7(?:0[07-9]|[1-69]\\d|[78][089])|8(?:[0-25-9]\\d|3[089]|4[0489])|9(?:[02-9]\\d|1[0289]))|9\\d{3})\\d{6}"
+    },
+    {
+      "countryId": "ID",
+      "code": 62,
+      "name": "Indonesia",
+      "lengths": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "example": 812345678,
+      "numberPattern": "8[1-35-9]\\d{7,10}"
+    },
+    {
+      "countryId": "IR",
+      "code": 98,
+      "name": "Iran",
+      "lengths": [
+        10
+      ],
+      "example": 9123456789,
+      "numberPattern": "9(?:(?:0(?:[1-35]\\d|44)|(?:[13]\\d|2[0-2])\\d)\\d|9(?:(?:[0-2]\\d|44)\\d|510|8(?:1\\d|88)|9(?:0[013]|1[0134]|21|77|9[6-9])))\\d{5}"
+    },
+    {
+      "countryId": "IQ",
+      "code": 964,
+      "name": "Iraq",
+      "lengths": [
+        10
+      ],
+      "example": 7912345678,
+      "numberPattern": "7[3-9]\\d{8}"
+    },
+    {
+      "countryId": "IE",
+      "code": 353,
+      "name": "Ireland",
+      "lengths": [
+        9
+      ],
+      "example": 850123456,
+      "numberPattern": "8(?:22|[35-9]\\d)\\d{6}"
+    },
+    {
+      "countryId": "IM",
+      "code": 44,
+      "name": "Isle of Man",
+      "lengths": [
+        10
+      ],
+      "example": 7924123456,
+      "numberPattern": "7(?:4576|[59]24\\d|624[0-4689])\\d{5}"
+    },
+    {
+      "countryId": "IL",
+      "code": 972,
+      "name": "Israel",
+      "lengths": [
+        9
+      ],
+      "example": 502345678,
+      "numberPattern": "5(?:(?:[0-489][2-9]|6\\d)\\d|5(?:01|2[2-5]|3[23]|4[45]|5[05689]|6[6-8]|7[0-267]|8[7-9]|9[1-9]))\\d{5}"
+    },
+    {
+      "countryId": "IT",
+      "code": 39,
+      "name": "Italy",
+      "lengths": [
+        9,
+        10,
+        11
+      ],
+      "example": 3123456789,
+      "numberPattern": "33\\d{9}|3[1-9]\\d{8}|3[2-9]\\d{7}"
+    },
+    {
+      "countryId": "JM",
+      "code": 1,
+      "name": "Jamaica",
+      "lengths": [
+        10
+      ],
+      "example": 8762101234,
+      "numberPattern": "(?:658295|876(?:(?:2[14-9]|[348]\\d)\\d|5(?:0[13-9]|17|[2-57-9]\\d|6[0-24-9])|7(?:0[07]|7\\d|8[1-47-9]|9[0-36-9])|9(?:[01]9|9[0579])))\\d{4}"
+    },
+    {
+      "countryId": "JP",
+      "code": 81,
+      "name": "Japan",
+      "lengths": [
+        10
+      ],
+      "example": 9012345678,
+      "numberPattern": "[7-9]0[1-9]\\d{7}"
+    },
+    {
+      "countryId": "JE",
+      "code": 44,
+      "name": "Jersey",
+      "lengths": [
+        10
+      ],
+      "example": 7797712345,
+      "numberPattern": "7(?:(?:(?:50|82)9|937)\\d|7(?:00[378]|97[7-9]))\\d{5}"
+    },
+    {
+      "countryId": "JO",
+      "code": 962,
+      "name": "Jordan",
+      "lengths": [
+        9
+      ],
+      "example": 790123456,
+      "numberPattern": "7(?:55[0-49]|(?:7[025-9]|[89][0-25-9])\\d)\\d{5}"
+    },
+    {
+      "countryId": "KZ",
+      "code": 7,
+      "name": "Kazakhstan",
+      "lengths": [
+        10
+      ],
+      "example": 7710009998,
+      "numberPattern": "7(?:0[0-2578]|47|6[02-4]|7[15-8]|85)\\d{7}"
+    },
+    {
+      "countryId": "KE",
+      "code": 254,
+      "name": "Kenya",
+      "lengths": [
+        9
+      ],
+      "example": 712123456,
+      "numberPattern": "[17]\\d{8}"
+    },
+    {
+      "countryId": "KI",
+      "code": 686,
+      "name": "Kiribati",
+      "lengths": [
+        8
+      ],
+      "example": 72001234,
+      "numberPattern": "73140\\d{3}|(?:630[01]|730[0-5])\\d{4}|[67]200[01]\\d{3}"
+    },
+    {
+      "countryId": "XK",
+      "code": 383,
+      "name": "Kosovo",
+      "lengths": [
+        8
+      ],
+      "example": 43201234,
+      "numberPattern": "4[3-79]\\d{6}"
+    },
+    {
+      "countryId": "KW",
+      "code": 965,
+      "name": "Kuwait",
+      "lengths": [
+        8
+      ],
+      "example": 50012345,
+      "numberPattern": "(?:52(?:22|5[25])|6(?:222|70[013-9]|93[039])|9(?:11[01]|702))\\d{4}|(?:5(?:[05]\\d|1[0-7]|6[56])|6(?:0[034679]|5[015-9]|6\\d|7[67]|9[069])|9(?:0[09]|22|4[01479]|55|6[0679]|7[1-9]|8[057-9]|9\\d))\\d{5}"
+    },
+    {
+      "countryId": "KG",
+      "code": 996,
+      "name": "Kyrgyzstan",
+      "lengths": [
+        9
+      ],
+      "example": 700123456,
+      "numberPattern": "(?:2(?:0[0-35]|2\\d)|5(?:0[0-57-9]|[124-7]\\d)|7(?:[07]\\d|55)|99[69])\\d{6}"
+    },
+    {
+      "countryId": "LA",
+      "code": 856,
+      "name": "Laos",
+      "lengths": [
+        10
+      ],
+      "example": 2023123456,
+      "numberPattern": "20(?:[29]\\d|5[24-689]|7[6-8])\\d{6}"
+    },
+    {
+      "countryId": "LV",
+      "code": 371,
+      "name": "Latvia",
+      "lengths": [
+        8
+      ],
+      "example": 21234567,
+      "numberPattern": "2\\d{7}"
+    },
+    {
+      "countryId": "LB",
+      "code": 961,
+      "name": "Lebanon",
+      "lengths": [
+        7,
+        8
+      ],
+      "example": 71123456,
+      "numberPattern": "(?:(?:3|81)\\d|7(?:[01]\\d|6[013-9]|8[89]|9[1-3]))\\d{5}"
+    },
+    {
+      "countryId": "LS",
+      "code": 266,
+      "name": "Lesotho",
+      "lengths": [
+        8
+      ],
+      "example": 50123456,
+      "numberPattern": "[56]\\d{7}"
+    },
+    {
+      "countryId": "LR",
+      "code": 231,
+      "name": "Liberia",
+      "lengths": [
+        7,
+        9
+      ],
+      "example": 770123456,
+      "numberPattern": "(?:(?:330|555|(?:77|88)\\d)\\d|4[67])\\d{5}|5\\d{6}"
+    },
+    {
+      "countryId": "LY",
+      "code": 218,
+      "name": "Libya",
+      "lengths": [
+        9
+      ],
+      "example": 912345678,
+      "numberPattern": "9[1-6]\\d{7}"
+    },
+    {
+      "countryId": "LI",
+      "code": 423,
+      "name": "Liechtenstein",
+      "lengths": [
+        7,
+        9
+      ],
+      "example": 660234567,
+      "numberPattern": "756\\d{4}|(?:6(?:499|5[0-3]\\d|6(?:0[0-7]|10|2[06-9]|39))|7[37-9])\\d{5}"
+    },
+    {
+      "countryId": "LT",
+      "code": 370,
+      "name": "Lithuania",
+      "lengths": [
+        8
+      ],
+      "example": 61234567,
+      "numberPattern": "6\\d{7}"
+    },
+    {
+      "countryId": "LU",
+      "code": 352,
+      "name": "Luxembourg",
+      "lengths": [
+        9
+      ],
+      "example": 628123456,
+      "numberPattern": "6(?:[269][18]|5[158]|7[189]|81)\\d{6}"
+    },
+    {
+      "countryId": "MO",
+      "code": 853,
+      "name": "Macao",
+      "lengths": [
+        8
+      ],
+      "example": 66123456,
+      "numberPattern": "6(?:[2356]\\d\\d|8(?:[02][5-9]|[1478]\\d|[356][0-4]))\\d{4}"
+    },
+    {
+      "countryId": "MG",
+      "code": 261,
+      "name": "Madagascar",
+      "lengths": [
+        9
+      ],
+      "example": 321234567,
+      "numberPattern": "3[2-49]\\d{7}"
+    },
+    {
+      "countryId": "MW",
+      "code": 265,
+      "name": "Malawi",
+      "lengths": [
+        9
+      ],
+      "example": 991234567,
+      "numberPattern": "111\\d{6}|(?:77|88|99)\\d{7}"
+    },
+    {
+      "countryId": "MY",
+      "code": 60,
+      "name": "Malaysia",
+      "lengths": [
+        9,
+        10
+      ],
+      "example": 123456789,
+      "numberPattern": "1(?:4400|8(?:47|8[27])[0-4])\\d{4}|1(?:0(?:[23568]\\d|4[0-6]|7[016-9]|9[0-8])|1(?:[1-5]\\d\\d|6(?:0[5-9]|[1-9]\\d))|(?:[23679][2-9]|4[235-9]|59\\d)\\d|8(?:1[23]|[236]\\d|4[06]|5[7-9]|7[016-9]|8[01]|9[0-8]))\\d{5}"
+    },
+    {
+      "countryId": "MV",
+      "code": 960,
+      "name": "Maldives",
+      "lengths": [
+        7
+      ],
+      "example": 7712345,
+      "numberPattern": "46[46]\\d{4}|(?:7[2-9]|9[14-9])\\d{5}"
+    },
+    {
+      "countryId": "ML",
+      "code": 223,
+      "name": "Mali",
+      "lengths": [
+        8
+      ],
+      "example": 65012345,
+      "numberPattern": "2(?:079|17\\d)\\d{4}|(?:50|[679]\\d|8[239])\\d{6}"
+    },
+    {
+      "countryId": "MT",
+      "code": 356,
+      "name": "Malta",
+      "lengths": [
+        8
+      ],
+      "example": 96961234,
+      "numberPattern": "(?:7(?:210|[79]\\d\\d)|9(?:2(?:1[01]|31)|69[67]|8(?:1[1-3]|89|97)|9\\d\\d))\\d{4}"
+    },
+    {
+      "countryId": "MH",
+      "code": 692,
+      "name": "Marshall Islands",
+      "lengths": [
+        7
+      ],
+      "example": 2351234,
+      "numberPattern": "(?:(?:23|54)5|329|45[56])\\d{4}"
+    },
+    {
+      "countryId": "MQ",
+      "code": 596,
+      "name": "Martinique",
+      "lengths": [
+        9
+      ],
+      "example": 696201234,
+      "numberPattern": "69(?:6(?:[0-47-9]\\d|5[0-6]|6[0-4])|727)\\d{4}"
+    },
+    {
+      "countryId": "MR",
+      "code": 222,
+      "name": "Mauritania",
+      "lengths": [
+        8
+      ],
+      "example": 22123456,
+      "numberPattern": "[2-4][0-46-9]\\d{6}"
+    },
+    {
+      "countryId": "MU",
+      "code": 230,
+      "name": "Mauritius",
+      "lengths": [
+        8
+      ],
+      "example": 52512345,
+      "numberPattern": "5(?:4(?:2[1-389]|7[1-9])|87[15-8])\\d{4}|5(?:2[589]|4[3489]|7\\d|8[0-689]|9[0-8])\\d{5}"
+    },
+    {
+      "countryId": "YT",
+      "code": 262,
+      "name": "Mayotte",
+      "lengths": [
+        9
+      ],
+      "example": 639012345,
+      "numberPattern": "639(?:0[0-79]|1[019]|[267]\\d|3[09]|[45]0|9[04-79])\\d{4}"
+    },
+    {
+      "countryId": "MX",
+      "code": 52,
+      "name": "Mexico",
+      "lengths": [
+        11
+      ],
+      "example": 12221234567,
+      "numberPattern": "1(?:2(?:2[1-9]|3[1-35-8]|4[13-9]|7[1-689]|8[1-578]|9[467])|3(?:1[1-79]|[2458][1-9]|3\\d|7[1-8]|9[1-5])|4(?:1[1-57-9]|[24-7][1-9]|3[1-8]|8[1-35-9]|9[2-689])|5(?:[56]\\d|88|9[1-79])|6(?:1[2-68]|[2-4][1-9]|5[1-3689]|6[1-57-9]|7[1-7]|8[67]|9[4-8])|7(?:[1-467][1-9]|5[13-9]|8[1-69]|9[17])|8(?:1\\d|2[13-689]|3[1-6]|4[124-6]|6[1246-9]|7[1-378]|9[12479])|9(?:1[346-9]|2[1-4]|3[2-46-8]|5[1348]|[69][1-9]|7[12]|8[1-8]))\\d{7}"
+    },
+    {
+      "countryId": "FM",
+      "code": 691,
+      "name": "Micronesia",
+      "lengths": [
+        7
+      ],
+      "example": 3501234,
+      "numberPattern": "(?:3[2357]0[1-9]|9[2-7]\\d\\d)\\d{3}"
+    },
+    {
+      "countryId": "MD",
+      "code": 373,
+      "name": "Moldova",
+      "lengths": [
+        8
+      ],
+      "example": 62112345,
+      "numberPattern": "(?:562|6\\d\\d|7(?:[189]\\d|6[07]|7[457-9]))\\d{5}"
+    },
+    {
+      "countryId": "MC",
+      "code": 377,
+      "name": "Monaco",
+      "lengths": [
+        8,
+        9
+      ],
+      "example": 612345678,
+      "numberPattern": "4(?:4\\d|5[1-9])\\d{5}|(?:3|6\\d)\\d{7}"
+    },
+    {
+      "countryId": "MN",
+      "code": 976,
+      "name": "Mongolia",
+      "lengths": [
+        8
+      ],
+      "example": 88123456,
+      "numberPattern": "83[01]\\d{5}|(?:8[05689]|9[013-9])\\d{6}"
+    },
+    {
+      "countryId": "ME",
+      "code": 382,
+      "name": "Montenegro",
+      "lengths": [
+        8
+      ],
+      "example": 67622901,
+      "numberPattern": "6(?:00|3[024]|6[0-25]|[7-9]\\d)\\d{5}"
+    },
+    {
+      "countryId": "MS",
+      "code": 1,
+      "name": "Montserrat",
+      "lengths": [
+        10
+      ],
+      "example": 6644923456,
+      "numberPattern": "66449[2-6]\\d{4}"
+    },
+    {
+      "countryId": "MA",
+      "code": 212,
+      "name": "Morocco",
+      "lengths": [
+        9
+      ],
+      "example": 650123456,
+      "numberPattern": "(?:6(?:[0-79]\\d|8[0-247-9])|7(?:0[06-8]|6[1267]|7[0-27]))\\d{6}"
+    },
+    {
+      "countryId": "MZ",
+      "code": 258,
+      "name": "Mozambique",
+      "lengths": [
+        9
+      ],
+      "example": 821234567,
+      "numberPattern": "8[2-7]\\d{7}"
+    },
+    {
+      "countryId": "MM",
+      "code": 95,
+      "name": "Myanmar (Burma)",
+      "lengths": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "example": 92123456,
+      "numberPattern": "(?:17[01]|9(?:2(?:[0-4]|[56]\\d\\d)|(?:3(?:[0-36]|4\\d)|(?:6[89]|89)\\d|7(?:3|5[0-2]|[6-9]\\d))\\d|4(?:(?:[0245]\\d|[1379])\\d|88)|5[0-6]|9(?:[089]|[5-7]\\d\\d))\\d)\\d{4}|9[69]1\\d{6}|9[68]\\d{6}"
+    },
+    {
+      "countryId": "NA",
+      "code": 264,
+      "name": "Namibia",
+      "lengths": [
+        9
+      ],
+      "example": 811234567,
+      "numberPattern": "(?:60|8[1245])\\d{7}"
+    },
+    {
+      "countryId": "NR",
+      "code": 674,
+      "name": "Nauru",
+      "lengths": [
+        7
+      ],
+      "example": 5551234,
+      "numberPattern": "55[4-9]\\d{4}"
+    },
+    {
+      "countryId": "NP",
+      "code": 977,
+      "name": "Nepal",
+      "lengths": [
+        10
+      ],
+      "example": 9841234567,
+      "numberPattern": "9(?:6[0-3]|7[245]|8[0-24-68])\\d{7}"
+    },
+    {
+      "countryId": "NL",
+      "code": 31,
+      "name": "Netherlands",
+      "lengths": [
+        9
+      ],
+      "example": 612345678,
+      "numberPattern": "6[1-58]\\d{7}"
+    },
+    {
+      "countryId": "NC",
+      "code": 687,
+      "name": "New Caledonia",
+      "lengths": [
+        6
+      ],
+      "example": 751234,
+      "numberPattern": "(?:5[0-4]|[79]\\d|8[0-79])\\d{4}"
+    },
+    {
+      "countryId": "NZ",
+      "code": 64,
+      "name": "New Zealand",
+      "lengths": [
+        8,
+        9,
+        10
+      ],
+      "example": 211234567,
+      "numberPattern": "2[0-28]\\d{8}|2[0-27-9]\\d{7}|21\\d{6}"
+    },
+    {
+      "countryId": "NI",
+      "code": 505,
+      "name": "Nicaragua",
+      "lengths": [
+        8
+      ],
+      "example": 81234567,
+      "numberPattern": "(?:5(?:5[0-7]|[78]\\d)|6(?:20|3[035]|4[045]|5[05]|77|8[1-9]|9[059])|(?:7[5-8]|8\\d)\\d)\\d{5}"
+    },
+    {
+      "countryId": "NE",
+      "code": 227,
+      "name": "Niger",
+      "lengths": [
+        8
+      ],
+      "example": 93123456,
+      "numberPattern": "(?:8[04589]|9\\d)\\d{6}"
+    },
+    {
+      "countryId": "NG",
+      "code": 234,
+      "name": "Nigeria",
+      "lengths": [
+        10
+      ],
+      "example": 8021234567,
+      "numberPattern": "(?:707[0-3]|8(?:01|19)[01])\\d{6}|(?:70[1-689]|8(?:0[2-9]|1[0-8])|90[1-35-9])\\d{7}"
+    },
+    {
+      "countryId": "NU",
+      "code": 683,
+      "name": "Niue",
+      "lengths": [
+        7
+      ],
+      "example": 8884012,
+      "numberPattern": "888[4-9]\\d{3}"
+    },
+    {
+      "countryId": "NF",
+      "code": 672,
+      "name": "Norfolk Island",
+      "lengths": [
+        6
+      ],
+      "example": 381234,
+      "numberPattern": "3[58]\\d{4}"
+    },
+    {
+      "countryId": "KP",
+      "code": 850,
+      "name": "North Korea",
+      "lengths": [
+        10
+      ],
+      "example": 1921234567,
+      "numberPattern": "19[1-3]\\d{7}"
+    },
+    {
+      "countryId": "MK",
+      "code": 389,
+      "name": "North Macedonia",
+      "lengths": [
+        8
+      ],
+      "example": 72345678,
+      "numberPattern": "7(?:(?:[0-25-8]\\d|3[2-4]|9[23])\\d|421)\\d{4}"
+    },
+    {
+      "countryId": "MP",
+      "code": 1,
+      "name": "Northern Mariana Islands",
+      "lengths": [
+        10
+      ],
+      "example": 6702345678,
+      "numberPattern": "670(?:2(?:3[3-7]|56|8[5-8])|32[1-38]|4(?:33|8[348])|5(?:32|55|88)|6(?:64|70|82)|78[3589]|8[3-9]8|989)\\d{4}"
+    },
+    {
+      "countryId": "NO",
+      "code": 47,
+      "name": "Norway",
+      "lengths": [
+        8
+      ],
+      "example": 40612345,
+      "numberPattern": "(?:4[015-8]|5[89]|9\\d)\\d{6}"
+    },
+    {
+      "countryId": "OM",
+      "code": 968,
+      "name": "Oman",
+      "lengths": [
+        8
+      ],
+      "example": 92123456,
+      "numberPattern": "90[1-9]\\d{5}|(?:7[129]|9[1-9])\\d{6}"
+    },
+    {
+      "countryId": "PK",
+      "code": 92,
+      "name": "Pakistan",
+      "lengths": [
+        10
+      ],
+      "example": 3012345678,
+      "numberPattern": "3(?:[014]\\d|2[0-5]|3[0-7]|55|64)\\d{7}"
+    },
+    {
+      "countryId": "PW",
+      "code": 680,
+      "name": "Palau",
+      "lengths": [
+        7
+      ],
+      "example": 6201234,
+      "numberPattern": "(?:6[2-4689]0|77\\d|88[0-4])\\d{4}"
+    },
+    {
+      "countryId": "PS",
+      "code": 970,
+      "name": "Palestine",
+      "lengths": [
+        9
+      ],
+      "example": 599123456,
+      "numberPattern": "5[69]\\d{7}"
+    },
+    {
+      "countryId": "PA",
+      "code": 507,
+      "name": "Panama",
+      "lengths": [
+        7,
+        8
+      ],
+      "example": 61234567,
+      "numberPattern": "(?:1[16]1|21[89]|6(?:[02-9]\\d|1[0-6])\\d|8(?:1[01]|7[23]))\\d{4}"
+    },
+    {
+      "countryId": "PG",
+      "code": 675,
+      "name": "Papua New Guinea",
+      "lengths": [
+        8
+      ],
+      "example": 70123456,
+      "numberPattern": "775\\d{5}|(?:7[0-689]|81)\\d{6}"
+    },
+    {
+      "countryId": "PY",
+      "code": 595,
+      "name": "Paraguay",
+      "lengths": [
+        9
+      ],
+      "example": 961456789,
+      "numberPattern": "9(?:51|6[129]|[78][1-6]|9[1-5])\\d{6}"
+    },
+    {
+      "countryId": "PE",
+      "code": 51,
+      "name": "Peru",
+      "lengths": [
+        9
+      ],
+      "example": 912345678,
+      "numberPattern": "9\\d{8}"
+    },
+    {
+      "countryId": "PH",
+      "code": 63,
+      "name": "Philippines",
+      "lengths": [
+        10
+      ],
+      "example": 9051234567,
+      "numberPattern": "(?:81[37]|9(?:0[5-9]|1[024-9]|2[0-35-9]|[35]\\d|4[235-9]|6[0-25-8]|7[1-9]|8[19]|9[4-9]))\\d{7}"
+    },
+    {
+      "countryId": "PL",
+      "code": 48,
+      "name": "Poland",
+      "lengths": [
+        9
+      ],
+      "example": 512345678,
+      "numberPattern": "(?:45|5[0137]|6[069]|7[2389]|88)\\d{7}"
+    },
+    {
+      "countryId": "PT",
+      "code": 351,
+      "name": "Portugal",
+      "lengths": [
+        9
+      ],
+      "example": 912345678,
+      "numberPattern": "9(?:[1-36]\\d\\d|480)\\d{5}"
+    },
+    {
+      "countryId": "PR",
+      "code": 1,
+      "name": "Puerto Rico",
+      "lengths": [
+        10
+      ],
+      "example": 7872345678,
+      "numberPattern": "(?:787|939)[2-9]\\d{6}"
+    },
+    {
+      "countryId": "QA",
+      "code": 974,
+      "name": "Qatar",
+      "lengths": [
+        8
+      ],
+      "example": 33123456,
+      "numberPattern": "[35-7]\\d{7}"
+    },
+    {
+      "countryId": "RO",
+      "code": 40,
+      "name": "Romania",
+      "lengths": [
+        9
+      ],
+      "example": 712034567,
+      "numberPattern": "7120\\d{5}|7(?:[02-7]\\d|1[01]|8[03-8]|99)\\d{6}"
+    },
+    {
+      "countryId": "RU",
+      "code": 7,
+      "name": "Russia",
+      "lengths": [
+        10
+      ],
+      "example": 9123456789,
+      "numberPattern": "9\\d{9}"
+    },
+    {
+      "countryId": "RW",
+      "code": 250,
+      "name": "Rwanda",
+      "lengths": [
+        9
+      ],
+      "example": 720123456,
+      "numberPattern": "7[238]\\d{7}"
+    },
+    {
+      "countryId": "RE",
+      "code": 262,
+      "name": "Reunion",
+      "lengths": [
+        9
+      ],
+      "example": 692123456,
+      "numberPattern": "69(?:2\\d\\d|3(?:0[0-46]|1[013]|2[0-2]|3[0-39]|4\\d|5[05]|6[0-26]|7[0-27]|8[0-38]|9[0-479]))\\d{4}"
+    },
+    {
+      "countryId": "WS",
+      "code": 685,
+      "name": "Samoa",
+      "lengths": [
+        7,
+        10
+      ],
+      "example": 7212345,
+      "numberPattern": "(?:7[25-7]|8(?:[3-7]|9\\d{3}))\\d{5}"
+    },
+    {
+      "countryId": "SM",
+      "code": 378,
+      "name": "San Marino",
+      "lengths": [
+        8
+      ],
+      "example": 66661212,
+      "numberPattern": "6[16]\\d{6}"
+    },
+    {
+      "countryId": "SA",
+      "code": 966,
+      "name": "Saudi Arabia",
+      "lengths": [
+        9
+      ],
+      "example": 512345678,
+      "numberPattern": "5(?:[013-689]\\d|7[0-36-8])\\d{6}"
+    },
+    {
+      "countryId": "SN",
+      "code": 221,
+      "name": "Senegal",
+      "lengths": [
+        9
+      ],
+      "example": 701234567,
+      "numberPattern": "7(?:[06-8]\\d|21|90)\\d{6}"
+    },
+    {
+      "countryId": "RS",
+      "code": 381,
+      "name": "Serbia",
+      "lengths": [
+        8,
+        9,
+        10
+      ],
+      "example": 601234567,
+      "numberPattern": "6(?:[0-689]|7\\d)\\d{6,7}"
+    },
+    {
+      "countryId": "SC",
+      "code": 248,
+      "name": "Seychelles",
+      "lengths": [
+        7
+      ],
+      "example": 2510123,
+      "numberPattern": "2[5-8]\\d{5}"
+    },
+    {
+      "countryId": "SL",
+      "code": 232,
+      "name": "Sierra Leone",
+      "lengths": [
+        8
+      ],
+      "example": 25123456,
+      "numberPattern": "(?:2[15]|3[013-5]|4[04]|5[05]|66|7[5-9]|8[08]|99)\\d{6}"
+    },
+    {
+      "countryId": "SG",
+      "code": 65,
+      "name": "Singapore",
+      "lengths": [
+        8
+      ],
+      "example": 81234567,
+      "numberPattern": "(?:8[1-8]|9[0-8])\\d{6}"
+    },
+    {
+      "countryId": "SX",
+      "code": 1,
+      "name": "Sint Maarten",
+      "lengths": [
+        10
+      ],
+      "example": 7215205678,
+      "numberPattern": "7215(?:1[02]|2\\d|5[034679]|8[014-8])\\d{4}"
+    },
+    {
+      "countryId": "SK",
+      "code": 421,
+      "name": "Slovakia",
+      "lengths": [
+        9
+      ],
+      "example": 912123456,
+      "numberPattern": "909[1-9]\\d{5}|9(?:0[1-8]|1[0-24-9]|[45]\\d)\\d{6}"
+    },
+    {
+      "countryId": "SI",
+      "code": 386,
+      "name": "Slovenia",
+      "lengths": [
+        8
+      ],
+      "example": 31234567,
+      "numberPattern": "6(?:5(?:1\\d|55|[67]0)|9(?:10|[69]\\d))\\d{4}|(?:[37][01]|4[0139]|51|6[48])\\d{6}"
+    },
+    {
+      "countryId": "SB",
+      "code": 677,
+      "name": "Solomon Islands",
+      "lengths": [
+        5,
+        7
+      ],
+      "example": 7421234,
+      "numberPattern": "48\\d{3}|(?:(?:7[1-9]|8[4-9])\\d|9(?:1[2-9]|2[013-9]|3[0-2]|[46]\\d|5[0-46-9]|7[0-689]|8[0-79]|9[0-8]))\\d{4}"
+    },
+    {
+      "countryId": "SO",
+      "code": 252,
+      "name": "Somalia",
+      "lengths": [
+        7,
+        8,
+        9
+      ],
+      "example": 71123456,
+      "numberPattern": "28\\d{5}|(?:6[1-9]|79)\\d{6,7}|(?:15|24|(?:3[59]|4[89]|8[08])\\d|60|7[1-8]|9(?:0[67]|[2-9]))\\d{6}"
+    },
+    {
+      "countryId": "ZA",
+      "code": 27,
+      "name": "South Africa",
+      "lengths": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "example": 711234567,
+      "numberPattern": "8[1-4]\\d{3,7}|(?:6\\d|7[0-46-9]|85)\\d{7}"
+    },
+    {
+      "countryId": "KR",
+      "code": 82,
+      "name": "South Korea",
+      "lengths": [
+        9,
+        10
+      ],
+      "example": 1000000000,
+      "numberPattern": "1[0-26-9]\\d{7,8}"
+    },
+    {
+      "countryId": "SS",
+      "code": 211,
+      "name": "South Sudan",
+      "lengths": [
+        9
+      ],
+      "example": 977123456,
+      "numberPattern": "(?:12|9[1257])\\d{7}"
+    },
+    {
+      "countryId": "ES",
+      "code": 34,
+      "name": "Spain",
+      "lengths": [
+        9
+      ],
+      "example": 612345678,
+      "numberPattern": "9(?:6906(?:09|10)|7390\\d\\d)\\d\\d|(?:6\\d|7[1-48])\\d{7}"
+    },
+    {
+      "countryId": "LK",
+      "code": 94,
+      "name": "Sri Lanka",
+      "lengths": [
+        9
+      ],
+      "example": 712345678,
+      "numberPattern": "7[0-25-8]\\d{7}"
+    },
+    {
+      "countryId": "BL",
+      "code": 590,
+      "name": "St. Barthelemy",
+      "lengths": [
+        9
+      ],
+      "example": 690001234,
+      "numberPattern": "69(?:0\\d\\d|1(?:2[29]|3[0-5]))\\d{4}"
+    },
+    {
+      "countryId": "SH",
+      "code": 290,
+      "name": "St. Helena",
+      "lengths": [
+        5
+      ],
+      "example": 51234,
+      "numberPattern": "[56]\\d{4}"
+    },
+    {
+      "countryId": "KN",
+      "code": 1,
+      "name": "St. Kitts & Nevis",
+      "lengths": [
+        10
+      ],
+      "example": 8697652917,
+      "numberPattern": "869(?:5(?:5[6-8]|6[5-7])|66\\d|76[02-7])\\d{4}"
+    },
+    {
+      "countryId": "LC",
+      "code": 1,
+      "name": "St. Lucia",
+      "lengths": [
+        10
+      ],
+      "example": 7582845678,
+      "numberPattern": "758(?:28[4-7]|384|4(?:6[01]|8[4-9])|5(?:1[89]|20|84)|7(?:1[2-9]|2\\d|3[01]))\\d{4}"
+    },
+    {
+      "countryId": "MF",
+      "code": 590,
+      "name": "St. Martin",
+      "lengths": [
+        9
+      ],
+      "example": 690001234,
+      "numberPattern": "69(?:0\\d\\d|1(?:2[29]|3[0-5]))\\d{4}"
+    },
+    {
+      "countryId": "PM",
+      "code": 508,
+      "name": "St. Pierre & Miquelon",
+      "lengths": [
+        6
+      ],
+      "example": 551234,
+      "numberPattern": "(?:4[02-4]|5[05])\\d{4}"
+    },
+    {
+      "countryId": "VC",
+      "code": 1,
+      "name": "St. Vincent & Grenadines",
+      "lengths": [
+        10
+      ],
+      "example": 7844301234,
+      "numberPattern": "784(?:4(?:3[0-5]|5[45]|89|9[0-8])|5(?:2[6-9]|3[0-4]))\\d{4}"
+    },
+    {
+      "countryId": "SD",
+      "code": 249,
+      "name": "Sudan",
+      "lengths": [
+        9
+      ],
+      "example": 911231234,
+      "numberPattern": "(?:1[0-2]|9[0-3569])\\d{7}"
+    },
+    {
+      "countryId": "SR",
+      "code": 597,
+      "name": "Suriname",
+      "lengths": [
+        7
+      ],
+      "example": 7412345,
+      "numberPattern": "(?:7[124-7]|8[125-9])\\d{5}"
+    },
+    {
+      "countryId": "SJ",
+      "code": 47,
+      "name": "Svalbard & Jan Mayen",
+      "lengths": [
+        8
+      ],
+      "example": 41234567,
+      "numberPattern": "(?:4[015-8]|5[89]|9\\d)\\d{6}"
+    },
+    {
+      "countryId": "SE",
+      "code": 46,
+      "name": "Sweden",
+      "lengths": [
+        9
+      ],
+      "example": 701234567,
+      "numberPattern": "7[02369]\\d{7}"
+    },
+    {
+      "countryId": "CH",
+      "code": 41,
+      "name": "Switzerland",
+      "lengths": [
+        9
+      ],
+      "example": 781234567,
+      "numberPattern": "7[35-9]\\d{7}"
+    },
+    {
+      "countryId": "SY",
+      "code": 963,
+      "name": "Syria",
+      "lengths": [
+        9
+      ],
+      "example": 944567890,
+      "numberPattern": "9(?:22|[3-589]\\d|6[024-9])\\d{6}"
+    },
+    {
+      "countryId": "ST",
+      "code": 239,
+      "name": "Sao Tome & Principe",
+      "lengths": [
+        7
+      ],
+      "example": 9812345,
+      "numberPattern": "900[5-9]\\d{3}|9(?:0[1-9]|[89]\\d)\\d{4}"
+    },
+    {
+      "countryId": "TW",
+      "code": 886,
+      "name": "Taiwan",
+      "lengths": [
+        9
+      ],
+      "example": 912345678,
+      "numberPattern": "9[0-8]\\d{7}"
+    },
+    {
+      "countryId": "TJ",
+      "code": 992,
+      "name": "Tajikistan",
+      "lengths": [
+        9
+      ],
+      "example": 917123456,
+      "numberPattern": "41[18]\\d{6}|(?:5[05]|77|88|9[0-35-9])\\d{7}"
+    },
+    {
+      "countryId": "TZ",
+      "code": 255,
+      "name": "Tanzania",
+      "lengths": [
+        9
+      ],
+      "example": 621234567,
+      "numberPattern": "(?:6[2-9]|7[13-9])\\d{7}"
+    },
+    {
+      "countryId": "TH",
+      "code": 66,
+      "name": "Thailand",
+      "lengths": [
+        9
+      ],
+      "example": 812345678,
+      "numberPattern": "(?:14|6[1-6]|[89]\\d)\\d{7}"
+    },
+    {
+      "countryId": "TL",
+      "code": 670,
+      "name": "Timor-Leste",
+      "lengths": [
+        8
+      ],
+      "example": 77212345,
+      "numberPattern": "7[3-8]\\d{6}"
+    },
+    {
+      "countryId": "TG",
+      "code": 228,
+      "name": "Togo",
+      "lengths": [
+        8
+      ],
+      "example": 90112345,
+      "numberPattern": "(?:7[09]|9[0-36-9])\\d{6}"
+    },
+    {
+      "countryId": "TK",
+      "code": 690,
+      "name": "Tokelau",
+      "lengths": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "example": 7290,
+      "numberPattern": "7[2-4]\\d{2,5}"
+    },
+    {
+      "countryId": "TO",
+      "code": 676,
+      "name": "Tonga",
+      "lengths": [
+        7
+      ],
+      "example": 7715123,
+      "numberPattern": "(?:7[578]|8[46-9])\\d{5}"
+    },
+    {
+      "countryId": "TT",
+      "code": 1,
+      "name": "Trinidad & Tobago",
+      "lengths": [
+        10
+      ],
+      "example": 8682911234,
+      "numberPattern": "868(?:2(?:6[6-9]|[7-9]\\d)|[37](?:0[1-9]|1[02-9]|[2-9]\\d)|4[6-9]\\d|6(?:20|78|8\\d))\\d{4}"
+    },
+    {
+      "countryId": "TA",
+      "code": 290,
+      "name": "Tristan da Cunha",
+      "lengths": [
+
+      ]
+    },
+    {
+      "countryId": "TN",
+      "code": 216,
+      "name": "Tunisia",
+      "lengths": [
+        8
+      ],
+      "example": 20123456,
+      "numberPattern": "3(?:001|[12]40)\\d{4}|(?:(?:[259]\\d|4[0-6])\\d|3(?:1[1-35]|6[0-4]|91))\\d{5}"
+    },
+    {
+      "countryId": "TR",
+      "code": 90,
+      "name": "Turkey",
+      "lengths": [
+        10
+      ],
+      "example": 5012345678,
+      "numberPattern": "56161\\d{5}|5(?:0[15-7]|1[06]|24|[34]\\d|5[1-59]|9[46])\\d{7}"
+    },
+    {
+      "countryId": "TM",
+      "code": 993,
+      "name": "Turkmenistan",
+      "lengths": [
+        8
+      ],
+      "example": 66123456,
+      "numberPattern": "6[1-9]\\d{6}"
+    },
+    {
+      "countryId": "TC",
+      "code": 1,
+      "name": "Turks & Caicos Islands",
+      "lengths": [
+        10
+      ],
+      "example": 6492311234,
+      "numberPattern": "649(?:2(?:3[129]|4[1-7])|3(?:3[1-389]|4[1-8])|4[34][1-3])\\d{4}"
+    },
+    {
+      "countryId": "TV",
+      "code": 688,
+      "name": "Tuvalu",
+      "lengths": [
+        6,
+        7
+      ],
+      "example": 901234,
+      "numberPattern": "(?:7[01]\\d|90)\\d{4}"
+    },
+    {
+      "countryId": "VI",
+      "code": 1,
+      "name": "U.S. Virgin Islands",
+      "lengths": [
+        10
+      ],
+      "example": 3406421234,
+      "numberPattern": "340(?:2(?:01|2[06-8]|44|77)|3(?:32|44)|4(?:22|7[34])|5(?:1[34]|55)|6(?:26|4[23]|77|9[023])|7(?:1[2-57-9]|27|7\\d)|884|998)\\d{4}"
+    },
+    {
+      "countryId": "UG",
+      "code": 256,
+      "name": "Uganda",
+      "lengths": [
+        9
+      ],
+      "example": 712345678,
+      "numberPattern": "7260\\d{5}|7(?:[0157-9]\\d|2[03]|30|4[0-4])\\d{6}"
+    },
+    {
+      "countryId": "UA",
+      "code": 380,
+      "name": "Ukraine",
+      "lengths": [
+        9
+      ],
+      "example": 501234567,
+      "numberPattern": "(?:50|6[36-8]|7[1-3]|9[1-9])\\d{7}"
+    },
+    {
+      "countryId": "AE",
+      "code": 971,
+      "name": "United Arab Emirates",
+      "lengths": [
+        9
+      ],
+      "example": 501234567,
+      "numberPattern": "5[024-68]\\d{7}"
+    },
+    {
+      "countryId": "GB",
+      "code": 44,
+      "name": "United Kingdom",
+      "lengths": [
+        10
+      ],
+      "example": 7400123456,
+      "numberPattern": "7(?:457[0-57-9]|700[01]|911[028])\\d{5}|7(?:[1-3]\\d\\d|4(?:[0-46-9]\\d|5[0-689])|5(?:0[0-8]|[13-9]\\d|2[0-35-9])|7(?:0[1-9]|[1-7]\\d|8[02-9]|9[0-689])|8(?:[014-9]\\d|[23][0-8])|9(?:[024-9]\\d|1[02-9]|3[0-689]))\\d{6}"
+    },
+    {
+      "countryId": "US",
+      "code": 1,
+      "name": "United States",
+      "lengths": [
+        10
+      ],
+      "example": 2015550123,
+      "numberPattern": "(?:2(?:0[1-35-9]|1[02-9]|2[03-589]|3[149]|4[08]|5[1-46]|6[0279]|7[0269]|8[13])|3(?:0[1-57-9]|1[02-9]|2[0135]|3[0-24679]|4[67]|5[12]|6[014]|8[056])|4(?:0[124-9]|1[02-579]|2[3-5]|3[0245]|4[0235]|58|6[39]|7[0589]|8[04])|5(?:0[1-57-9]|1[0235-8]|20|3[0149]|4[01]|5[19]|6[1-47]|7[013-5]|8[056])|6(?:0[1-35-9]|1[024-9]|2[03689]|[34][016]|5[017]|6[0-279]|78|8[0-2])|7(?:0[1-46-8]|1[2-9]|2[04-7]|3[1247]|4[037]|5[47]|6[02359]|7[02-59]|8[156])|8(?:0[1-68]|1[02-8]|2[08]|3[0-28]|4[3578]|5[046-9]|6[02-5]|7[028])|9(?:0[1346-9]|1[02-9]|2[0589]|3[0146-8]|4[0179]|5[12469]|7[0-389]|8[04-69]))[2-9]\\d{6}"
+    },
+    {
+      "countryId": "UY",
+      "code": 598,
+      "name": "Uruguay",
+      "lengths": [
+        8
+      ],
+      "example": 94231234,
+      "numberPattern": "9[1-9]\\d{6}"
+    },
+    {
+      "countryId": "UZ",
+      "code": 998,
+      "name": "Uzbekistan",
+      "lengths": [
+        9
+      ],
+      "example": 912345678,
+      "numberPattern": "(?:6(?:1(?:2(?:2[01]|98)|35[0-4]|50\\d|61[23]|7(?:[01][017]|4\\d|55|9[5-9]))|2(?:(?:11|7\\d)\\d|2(?:[12]1|9[01379])|5(?:[126]\\d|3[0-4]))|5(?:19[01]|2(?:27|9[26])|(?:30|59|7\\d)\\d)|6(?:2(?:1[5-9]|2[0367]|38|41|52|60)|(?:3[79]|9[0-3])\\d|4(?:56|83)|7(?:[07]\\d|1[017]|3[07]|4[047]|5[057]|67|8[0178]|9[79]))|7(?:2(?:24|3[237]|4[5-9]|7[15-8])|5(?:7[12]|8[0589])|7(?:0\\d|[39][07])|9(?:0\\d|7[079]))|9(?:2(?:1[1267]|3[01]|5\\d|7[0-4])|(?:5[67]|7\\d)\\d|6(?:2[0-26]|8\\d)))|7(?:0\\d{3}|1(?:13[01]|6(?:0[47]|1[67]|66)|71[3-69]|98\\d)|2(?:2(?:2[79]|95)|3(?:2[5-9]|6[0-6])|57\\d|7(?:0\\d|1[17]|2[27]|3[37]|44|5[057]|66|88))|3(?:2(?:1[0-6]|21|3[469]|7[159])|(?:33|9[4-6])\\d|5(?:0[0-4]|5[579]|9\\d)|7(?:[0-3579]\\d|4[0467]|6[67]|8[078]))|4(?:2(?:29|5[0257]|6[0-7]|7[1-57])|5(?:1[0-4]|8\\d|9[5-9])|7(?:0\\d|1[024589]|2[0-27]|3[0137]|[46][07]|5[01]|7[5-9]|9[079])|9(?:7[015-9]|[89]\\d))|5(?:112|2(?:0\\d|2[29]|[49]4)|3[1568]\\d|52[6-9]|7(?:0[01578]|1[017]|[23]7|4[047]|[5-7]\\d|8[78]|9[079]))|6(?:2(?:2[1245]|4[2-4])|39\\d|41[179]|5(?:[349]\\d|5[0-2])|7(?:0[017]|[13]\\d|22|44|55|67|88))|9(?:22[128]|3(?:2[0-4]|7\\d)|57[02569]|7(?:2[05-9]|3[37]|4\\d|60|7[2579]|87|9[07])))|9[0-57-9]\\d{3})\\d{4}"
+    },
+    {
+      "countryId": "VU",
+      "code": 678,
+      "name": "Vanuatu",
+      "lengths": [
+        7
+      ],
+      "example": 5912345,
+      "numberPattern": "57[2-5]\\d{4}|(?:5[0-689]|7[013-7])\\d{5}"
+    },
+    {
+      "countryId": "VA",
+      "code": 39,
+      "name": "Vatican City",
+      "lengths": [
+        9,
+        10,
+        11
+      ],
+      "example": 3123456789,
+      "numberPattern": "33\\d{9}|3[1-9]\\d{8}|3[2-9]\\d{7}"
+    },
+    {
+      "countryId": "VE",
+      "code": 58,
+      "name": "Venezuela",
+      "lengths": [
+        10
+      ],
+      "example": 4121234567,
+      "numberPattern": "4(?:1[24-8]|2[46])\\d{7}"
+    },
+    {
+      "countryId": "VN",
+      "code": 84,
+      "name": "Vietnam",
+      "lengths": [
+        9
+      ],
+      "example": 912345678,
+      "numberPattern": "(?:(?:3\\d|7[06-9])\\d|5(?:2[238]|[689]\\d)|8(?:[1-58]\\d|6[5-9]|79|9[689])|9(?:[0-8]\\d|9[013-9]))\\d{6}"
+    },
+    {
+      "countryId": "WF",
+      "code": 681,
+      "name": "Wallis & Futuna",
+      "lengths": [
+        6
+      ],
+      "example": 501234,
+      "numberPattern": "(?:50|68|72|8[23])\\d{4}"
+    },
+    {
+      "countryId": "EH",
+      "code": 212,
+      "name": "Western Sahara",
+      "lengths": [
+        9
+      ],
+      "example": 650123456,
+      "numberPattern": "(?:6(?:[0-79]\\d|8[0-247-9])|7(?:0[06-8]|6[1267]|7[0-27]))\\d{6}"
+    },
+    {
+      "countryId": "YE",
+      "code": 967,
+      "name": "Yemen",
+      "lengths": [
+        9
+      ],
+      "example": 712345678,
+      "numberPattern": "7[0137]\\d{7}"
+    },
+    {
+      "countryId": "ZM",
+      "code": 260,
+      "name": "Zambia",
+      "lengths": [
+        9
+      ],
+      "example": 955123456,
+      "numberPattern": "(?:76|9[5-8])\\d{7}"
+    },
+    {
+      "countryId": "ZW",
+      "code": 263,
+      "name": "Zimbabwe",
+      "lengths": [
+        9
+      ],
+      "example": 712345678,
+      "numberPattern": "7(?:1[2-9]|[37][1-9]|8[2-7])\\d{6}"
+    },
+    {
+      "countryId": "AX",
+      "code": 358,
+      "name": "Aland Islands",
+      "lengths": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "example": 412345678,
+      "numberPattern": "(?:4[0-8]|50)\\d{4,8}"
+    }
+  ]
+}

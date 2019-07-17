@@ -1,0 +1,135 @@
+[
+  {
+    "value": "Input initial property data",
+    "path": "user/property/9/InputInitialPropertyData",
+    "components": [
+      {
+        "id": "list.picker",
+        "key": "List",
+        "list": [
+          "test1",
+          "test2",
+          "test3",
+          "test4",
+          "test5",
+          "test6",
+          "test7",
+          "test8",
+          "test9",
+          "test10",
+          1,
+          2,
+          3
+        ],
+        "value": null,
+        "component": "item",
+        "isInput": true,
+        "isTransition": false
+      },
+      {
+        "id": "rent.signature",
+        "key": "Rent",
+        "typeValue": "switch",
+        "value": true,
+        "component": "item",
+        "isInput": true,
+        "isTransition": false
+      },
+      {
+        "id": "rent.cost",
+        "key": "    cost, €/month",
+        "typeValue": "money",
+        "value": 50000,
+        "component": "item",
+        "isInput": true,
+        "isTransition": false
+      },
+      {
+        "id": "rent.availableFrom",
+        "key": "    available from",
+        "typeValue": "date",
+        "value": 1558449175432,
+        "min": 1558616866643,
+        "max": 1574168866643,
+        "component": "item",
+        "isInput": true,
+        "isTransition": false
+      },
+      {
+        "id": "rent.petsAllowed",
+        "key": "    pets allowed",
+        "typeValue": "switch",
+        "value": true,
+        "component": "item",
+        "isInput": true,
+        "isTransition": false
+      },
+      {
+        "id": "sale.signature",
+        "key": "Sale",
+        "typeValue": "switch",
+        "value": true,
+        "component": "item",
+        "isInput": true,
+        "isTransition": false
+      },
+      {
+        "id": "sale.cost",
+        "key": "    cost, €",
+        "typeValue": "money",
+        "value": 35000000,
+        "component": "item",
+        "isInput": true,
+        "isTransition": false
+      },
+      {
+        "id": "sale.availableFrom",
+        "key": "    available from",
+        "typeValue": "date",
+        "value": 1558449186001,
+        "min": 1558616866644,
+        "max": 1574168866644,
+        "component": "item",
+        "isInput": true,
+        "isTransition": false
+      },
+      {
+        "id": "realty.isTitleDeed",
+        "key": "Title deed photo",
+        "typeValue": "photo",
+        "value": "uploaded",
+        "picture": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#37B4BC\" fill-opacity=\"0.87\"><path d=\"M20 4h-3.17L15 2H9L7.17 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 14H4V6h4.05l1.83-2h4.24l1.83 2H20v12zM12 7c-2.76 0-5 2.24-5 5s2.24 5 5 5 5-2.24 5-5-2.24-5-5-5zm0 8c-1.65 0-3-1.35-3-3s1.35-3 3-3 3 1.35 3 3-1.35 3-3 3z\"/></svg>",
+        "component": "item",
+        "isInput": true,
+        "isTransition": false
+      },
+      {
+        "id": "realty.isElectricityBill",
+        "key": "Electricity bill photo",
+        "typeValue": "photo",
+        "value": "uploaded",
+        "picture": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#37B4BC\" fill-opacity=\"0.87\"><path d=\"M20 4h-3.17L15 2H9L7.17 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 14H4V6h4.05l1.83-2h4.24l1.83 2H20v12zM12 7c-2.76 0-5 2.24-5 5s2.24 5 5 5 5-2.24 5-5-2.24-5-5-5zm0 8c-1.65 0-3-1.35-3-3s1.35-3 3-3 3 1.35 3 3-1.35 3-3 3z\"/></svg>",
+        "component": "item",
+        "isInput": true,
+        "isTransition": false
+      },
+      {
+        "id": "realty.isFrontPhoto",
+        "key": "House front photo",
+        "typeValue": "photo",
+        "value": "uploaded",
+        "picture": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"#37B4BC\" fill-opacity=\"0.87\"><path d=\"M20 4h-3.17L15 2H9L7.17 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 14H4V6h4.05l1.83-2h4.24l1.83 2H20v12zM12 7c-2.76 0-5 2.24-5 5s2.24 5 5 5 5-2.24 5-5-2.24-5-5-5zm0 8c-1.65 0-3-1.35-3-3s1.35-3 3-3 3 1.35 3 3-1.35 3-3 3z\"/></svg>",
+        "component": "item",
+        "isInput": true,
+        "isTransition": false
+      },
+      {
+        "id": "signature",
+        "component": "button",
+        "isAble": true,
+        "key": "Confirm and send",
+        "value": true
+      }
+    ]
+  }
+]
